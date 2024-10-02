@@ -39,15 +39,11 @@ The project uses libraries such as NumPy, SymPy, SciPy, and Matplotlib for symbo
 - Python 3.x
 - NumPy, SymPy, SciPy, Matplotlib
 
-Collaborators:
+## Collaborators:
 
--Purity Kihiu
-
--Kangabire Muhoza Merveille
-
--Jules Gatete
-
--Aubin Ntwari
-
--Ruth Iradukunda
+- Purity Kihiu
+- Kangabire Muhoza Merveille
+- Jules Gatete
+- Aubin Ntwari
+- Ruth Iradukunda
 
