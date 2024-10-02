@@ -1,3 +1,5 @@
+### Calculus-Assignment-PLD-1
+
 This project dynamically calculates the derivative of any function `f(x)` and identifies minimas and maximas. It also plots the function and computes the area under the curve between critical points.
 
 This project is designed to dynamically calculate the derivative of any mathematical function using Python. 
@@ -37,13 +39,10 @@ The project uses libraries such as NumPy, SymPy, SciPy, and Matplotlib for symbo
 - Python 3.x
 - NumPy, SymPy, SciPy, Matplotlib
 
-This version provides a concise overview while maintaining key information about the project.
+Collaborators:
 
-
-## collaborators:
-
--Purity Kihiu
-- Kangabire Muhoza Merveille
--Jules Gatete
-- Aubin ntwari
--Ruth Iradukunda
+Purity Kihiu
+Kangabire Muhoza Merveille
+Jules Gatete
+Aubin Ntwari
+Ruth Iradukunda
